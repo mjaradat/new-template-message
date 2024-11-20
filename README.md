@@ -27,7 +27,7 @@ Before you begin, ensure you have the following installed on your system:
 
    ```bash
    git https://github.com/mjaradat/template-message.git
-   cd template-message
+   cd new-template-message
    npm install
    npm run dev
    ```
